@@ -3,5 +3,6 @@ While I learn more about developing Dapps (decentralized applications), I will b
 
 Intro Material
 Consensys' Tutorial: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
+
 Jordan Leigh's Vid walkthru: https://www.youtube.com/watch?v=8jI1TuEaTro
 
